@@ -19,6 +19,10 @@ In de wasmachine zit een centrale aanstuureenheid, of aansturing in het kort. Na
 
 2.  Maak tot slot het klassendiagram voor deze machine.
 
+3.  Controleer je producten aan de hand van de criteria die jullie vorige week hebben opgesteld.
+
+    Controleer je criteria aan de hand van de opgestelde producten.
+
 Acht Munten
 ===========
 
@@ -33,6 +37,8 @@ Het is de bedoeling dat je met behulp van de weegschaal de valse munt in zo wein
 1.  Maak een domeinmodel.
 
 2.  Maak een sequentiediagram met de oplossing voor de meest efficiente methode om de munt te vinden.
+
+3.  Controleer weer wederzijds producten en criteria.
 
 Drie Kannen
 ===========
@@ -52,5 +58,7 @@ Dat was een hele klus om een goede oplossing te vinden.
 1.  Bedenk een (brute) methode waarmee je je laptop het zware werk kan doen.
 
     Ga na of je daarvoor een aanpassing van het domeinmodel nodig hebt, voer deze zonodig door en leg je methode uit aan de hand van een sequentiediagram.
+
+2.  Controleer weer wederzijds producten en criteria.
 
 
